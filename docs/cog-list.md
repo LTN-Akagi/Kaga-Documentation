@@ -9,7 +9,7 @@ Links are dead as of right now until they are made.
 
 # Public Cogs
 * * *
-*   [Admin](./cog-list.html)
+*   [Admin](./cogs/Admin.html)
 *   [ban sync](./cog-list.html)
 *   [clean up](./cog-list.html)
 *   [Commands buttons](./cog-list.html)
@@ -19,7 +19,6 @@ Links are dead as of right now until they are made.
 *   [Extended modlog](./cog-list.html)
 *   [filter](./cog-list.html)
 *   [General](./cog-list.html)
-*   [heartbeat](./cog-list.html)
 *   [link warner](./cog-list.html)
 *   [mod](./cog-list.html)
 *   [modlog](./cog-list.html)
@@ -30,11 +29,10 @@ Links are dead as of right now until they are made.
 
 ## Bot Owner Cogs Only
 * * *
-*   [updatechecker](./cog-list.html)
-*   [system](./cog-list.html)
+*   [heartbeat](./cog-list.html)
 *   [netspeed](./cog-list.html)
-
-
+*   [system](./cog-list.html)
+*   [updatechecker](./cog-list.html)
 
 
 [back](./)

@@ -7,7 +7,7 @@ layout: default
 >Self hosted by the Triquetra team.
 >Sources to the cogs and their documentation will be listed and credited.
 
-[List of loaded cogs](./cog-list.html).
+[List of loaded cogs](./cog-list.html)
 
 There should be whitespace between paragraphs.
 

@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to another page'
+## Admin page!
+
 
 _yay_
 
-[back](./)
+[List of loaded cogs](./cog-list.html)
