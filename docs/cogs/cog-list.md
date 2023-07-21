@@ -9,7 +9,7 @@ Links are dead as of right now until they are made.
 
 # Public Cogs
 * * *
-*   [Admin](./cogs/Admin.html)
+*   [Admin](./admin.html)
 *   [ban sync](./cog-list.html)
 *   [clean up](./cog-list.html)
 *   [Commands buttons](./cog-list.html)
@@ -35,4 +35,4 @@ Links are dead as of right now until they are made.
 *   [updatechecker](./cog-list.html)
 
 
-[back](./)
+[back](./index.html)
