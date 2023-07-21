@@ -19,11 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kaga Documentation
-description: >- # this means to ignore newlines until "baseurl:"
-  Info related to Kaga such as commands, features, info, ect. 
-  Kaga runs on Red DiscordBot from Cog-Creators and
-  Self hosted by the Triquetra team.
-  Sources to the cogs and their documentation will be listed and credited.
 show_downloads: false
 domain: ltn-akagi.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ltn-akagi.github.io/Kaga-Documentation/  # the base hostname and protocol for your site, e.g. http://example.com
